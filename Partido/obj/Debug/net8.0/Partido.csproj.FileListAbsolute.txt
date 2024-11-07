@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\bin\Debug\net8.0\Partido.exe
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\bin\Debug\net8.0\Partido.deps.json
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\bin\Debug\net8.0\Partido.runtimeconfig.json
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\bin\Debug\net8.0\Partido.dll
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\bin\Debug\net8.0\Partido.pdb
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\obj\Debug\net8.0\Partido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\obj\Debug\net8.0\Partido.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\obj\Debug\net8.0\Partido.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\obj\Debug\net8.0\Partido.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\obj\Debug\net8.0\Partido.dll
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\obj\Debug\net8.0\refint\Partido.dll
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\obj\Debug\net8.0\Partido.pdb
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\obj\Debug\net8.0\Partido.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\2\Partido\Partido\obj\Debug\net8.0\ref\Partido.dll
